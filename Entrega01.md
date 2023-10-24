@@ -8,7 +8,7 @@ Os dados foram obtidos do Repositório de Aprendizado de Máquina UCI:  https://
 Estrutura:
 
 Todos os atributos, exceto Categoria e Sexo, são numéricos.
-Os atributos 1 a 4 referem-se aos dados do paciente:
+Os atributos 1 a 4 referem-se aos dados do paciente.
 Os atributos 5 a 14 referem-se a dados laboratoriais:
 
 1) X (Paciente ID/No.)
