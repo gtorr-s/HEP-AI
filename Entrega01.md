@@ -5,7 +5,7 @@ Explicação:
 O conjunto de dados contém valores laboratoriais de doadores de sangue e pacientes com hepatite C e valores demográficos como idade.
 Os dados foram obtidos do Repositório de Aprendizado de Máquina UCI:  https://archive.ics.uci.edu/ml/datasets/HCV+data
 
-Extrutura:
+Estrutura:
 
 Todos os atributos, exceto Categoria e Sexo, são numéricos.
 Os atributos 1 a 4 referem-se aos dados do paciente:
