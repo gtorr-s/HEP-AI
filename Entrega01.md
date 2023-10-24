@@ -1,27 +1,27 @@
-https://www.kaggle.com/datasets/fedesoriano/hepatitis-c-dataset/
+Base de dados: https://www.kaggle.com/datasets/fedesoriano/hepatitis-c-dataset/
 
-Context
-The data set contains laboratory values of blood donors and Hepatitis C patients and demographic values like age.
-The data was obtained from UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/HCV+data
+Explicação:
 
-Content
+O conjunto de dados contém valores laboratoriais de doadores de sangue e pacientes com hepatite C e valores demográficos como idade.
+Os dados foram obtidos do Repositório de Aprendizado de Máquina UCI:  https://archive.ics.uci.edu/ml/datasets/HCV+data
 
-All attributes except Category and Sex are numerical.
-Attributes 1 to 4 refer to the data of the patient:
+Extrutura:
 
-1) X (Patient ID/No.)
-2) Category (diagnosis) (values: '0=Blood Donor', '0s=suspect Blood Donor', '1=Hepatitis', '2=Fibrosis', '3=Cirrhosis')
-3) Age (in years)
+Todos os atributos, exceto Categoria e Sexo, são numéricos.
+Os atributos 1 a 4 referem-se aos dados do paciente:
+Os atributos 5 a 14 referem-se a dados laboratoriais:
+
+1) X (Paciente ID/No.)
+2) Category (diagnóstico) (valores: '0=Doador de Sangue', '0s=Doador de Sangue Suspeito', '1=Hepatite', '2=Fibrose', '3=Cirrose')
+3) Age (em anos)
 4) Sex (f,m)
-
-Attributes 5 to 14 refer to laboratory data:
-5) ALB
-6) ALP
-7) ALT
-8) AST
-9) BIL
-10) CHE
-11) CHOL
-12) CREA
-13) GGT
-14) PROT
+5) ALB (Exame de sangue de albumina)
+6) ALP (Fosfatase alcalina)
+7) ALT (Alanina transaminase)
+8) AST (Aspartato transaminase)
+9) BIL (Bilirrubina) 
+10) CHE (Acetilcolinesterase)
+11) CHOL (Colesterol)
+12) CREA (Creatinina)
+13) GGT (Gama-Glutamil Transferase)
+14) PROT (Proteínas)
