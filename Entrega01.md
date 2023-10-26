@@ -12,9 +12,9 @@ Os atributos 1 a 4 referem-se aos dados do paciente.
 Os atributos 5 a 14 referem-se a dados laboratoriais:
 
 1) X (Paciente ID/No.) (Variavel int)
-2) Category (diagnóstico) (valores: '0=Doador de Sangue', '0s=Doador de Sangue Suspeito', '1=Hepatite', '2=Fibrose', '3=Cirrose') (Variavel text)
+2) Category (diagnóstico) (valores: '0=Doador de Sangue', '0s=Doador de Sangue Suspeito', '1=Hepatite', '2=Fibrose', '3=Cirrose') (Variavel String)
 3) Age (em anos) (Variavel int)
-4) Sex (f,m) (Variavel varchar)
+4) Sex (f,m) (Variavel String)
 5) ALB (Exame de sangue de albumina) (Variavel float)
 6) ALP (Fosfatase alcalina) (Variavel float)
 7) ALT (Alanina transaminase) (Variavel float)
