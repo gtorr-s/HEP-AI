@@ -30,9 +30,10 @@ Os atributos 5 a 14 referem-se a dados laboratoriais:
 
 Entrega 03:
 
-  Variavel Target - a variavel para ser calculada será o diagnóstico do paciente em relação as resultados de laboratorios, 
-  que será a tabela do banco de dados chamada "Category".
-  Variaves a serem transformadas - Transformamos a categoria "Category" para somente números inteiros e cada um significando 
-  o seu respectivo diagnostico, excluimos a categoria "X", pois ela não sera importante.
+Variavel Target - a variavel para ser calculada será o diagnóstico do paciente em relação as resultados de laboratorios, 
+que será a tabela do banco de dados chamada "Category".
+
+Variaves a serem transformadas - Transformamos a categoria "Category" para somente números inteiros e cada um significando 
+o seu respectivo diagnostico, excluimos a categoria "X", pois ela não sera importante.
 
 
