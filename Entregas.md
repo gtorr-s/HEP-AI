@@ -36,4 +36,13 @@ que será a tabela do banco de dados chamada "Category".
 Variaves a serem transformadas - Transformamos a categoria "Category" para somente números inteiros e cada um significando 
 o seu respectivo diagnostico, excluimos a categoria "X", pois ela não sera importante.
 
+Entrega 04: 
+
+No primeiro método de IA, utilizando o KNN conseguimos uma taxa de precisão de 88%.
+
+Utilizamos como categoria: 0 = Blood Donor, 1 = Suspect Blood Donor, 2 = Hepatitis, 3 = Fibrosis, 4 = Cirrhosis
+
+Entrega 05:
+
+No segundo método de IA, utilizando as Redes Neurais, fazendo uso da biblioteca do sklearn juntamente com neutral_network, foi feito o uso de gráfico para facilitar a leitura.
 
