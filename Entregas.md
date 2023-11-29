@@ -48,3 +48,7 @@ No segundo método de IA, utilizando as Redes Neurais, fazendo uso da biblioteca
 
 Para resolver o problema do classification_report, criei um sklearn.metrics para poder importar classification_report
 
+Entrega 06: 
+
+No terceiro método de IA, utilizando Regressão Logistica, fazendo novamente o uso da biblioteca do sklearn, foi feito o uso de gráfico para facilitar a leitura do médico
+
